@@ -1,0 +1,14 @@
+Para executar o algoritmo, basta compila-lo passando os seguintes parametros
+    algoritmo, grafo, saida
+o algoritmo pode ser:
+    1: algoritmo de coloração de grafos Guloso
+    2: algoritmo de coloração de grafos de Welsh_Powell
+o grafo é o local onde o arquivo de entrada se encontra, exemplo 
+    'testes/grafo-medio1.txt'
+a saida é onde o arquivo de saida sera salvo, exemplo 
+    'saidas/resultado'
+
+
+Exemplo de execução do codigo 
+
+python "fontes/main.py" 1 'testes/grafo-medio1.txt' 'saidas/resultado'
