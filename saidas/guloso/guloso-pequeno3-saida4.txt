@@ -1,0 +1,18 @@
+==================== Coloracao de Grafos =====================
+algoritmo Para coloracao de grafos guloso
+Data de execucao do algoritmo: Wed Jan 19 11:39:14 2022
+==============================================================
+Tempo de execucao do Algoritmo: 0.0
+Numero de Cores necessarias: 3
+==============================================================
+Vertice 0 --->  Cor 0
+Vertice 1 --->  Cor 1
+Vertice 2 --->  Cor 0
+Vertice 3 --->  Cor 2
+Vertice 4 --->  Cor 0
+Vertice 5 --->  Cor 1
+Vertice 6 --->  Cor 0
+Vertice 7 --->  Cor 1
+Vertice 8 --->  Cor 0
+Vertice 9 --->  Cor 2
+Vertice 10 --->  Cor 3
